@@ -39,6 +39,7 @@
           "A5": "a991cdb6-4ebb-d107-3ec3-251d4beeff39",
           "BL7": "11a47caf-a0d5-41fa-a274-a0b11f77447a",
           "BL8": "4df440a1-a5a4-4ff0-95d9-95b488af4f18",
+          "BM1": 0,
           "BM4": [
             {
               "BL1": "Terrasoft.Core.Process.ProcessSchemaLane",
@@ -73,7 +74,8 @@
           "BL8": "4df440a1-a5a4-4ff0-95d9-95b488af4f18",
           "BN2": "31;31",
           "BO3": true,
-          "FC1": []
+          "FC1": [],
+          "ED1": false
         },
         {
           "BL1": "Terrasoft.Core.Process.ProcessSchemaTerminateEvent",
@@ -85,6 +87,36 @@
           "IL2": "26999d66-03a7-4559-8932-4dacd85e2c07",
           "BL3": "600;184",
           "BL7": "1bd93619-0574-454e-bb4e-cf53b9eb9470",
+          "BL8": "4df440a1-a5a4-4ff0-95d9-95b488af4f18",
+          "BN2": "31;31",
+          "BO3": true,
+          "FC1": []
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaTerminateEvent",
+          "UId": "3be3ed0a-9fc3-48e3-b417-38f9280b5689",
+          "A2": "TerminateEvent2",
+          "A3": "4df440a1-a5a4-4ff0-95d9-95b488af4f18",
+          "A4": "4df440a1-a5a4-4ff0-95d9-95b488af4f18",
+          "A5": "a991cdb6-4ebb-d107-3ec3-251d4beeff39",
+          "IL2": "26999d66-03a7-4559-8932-4dacd85e2c07",
+          "BL3": "-454;-408",
+          "BL7": "1bd93619-0574-454e-bb4e-cf53b9eb9470",
+          "BL8": "4df440a1-a5a4-4ff0-95d9-95b488af4f18",
+          "BN2": "31;31",
+          "BO3": true,
+          "FC1": []
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaStartEvent",
+          "UId": "f24211e8-1fed-46e9-a80c-dde0c61d4691",
+          "A2": "StartEvent2",
+          "A3": "4df440a1-a5a4-4ff0-95d9-95b488af4f18",
+          "A4": "4df440a1-a5a4-4ff0-95d9-95b488af4f18",
+          "A5": "a991cdb6-4ebb-d107-3ec3-251d4beeff39",
+          "IL2": "26999d66-03a7-4559-8932-4dacd85e2c07",
+          "BL3": "-738;-408",
+          "BL7": "53818048-7868-48f6-ada0-0ebaa65af628",
           "BL8": "4df440a1-a5a4-4ff0-95d9-95b488af4f18",
           "BN2": "31;31",
           "BO3": true,
