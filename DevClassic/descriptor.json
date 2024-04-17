@@ -1,0 +1,18 @@
+﻿{
+  "Descriptor": {
+    "UId": "a991cdb6-4ebb-d107-3ec3-251d4beeff39",
+    "Name": "DevClassic",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1713338397000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/DevClassic.csproj",
+    "Description": "Developer package mainly for Classic UI examples.",
+    "DependsOn": [
+      {
+        "UId": "fe1effeb-74f2-42c5-b5e1-dfe0313b86bf",
+        "PackageVersion": "7.8.0",
+        "Name": "Studio"
+      }
+    ]
+  }
+}
